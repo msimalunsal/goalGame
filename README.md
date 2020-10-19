@@ -1,3 +1,3 @@
 # goalGame
-LineRenderer kullanılarak topa yön verilmiştir.
-Sol tık ile topu atarak oyunu oynayabilirsiniz.
+Unity ver 2019.2.8f1
+Topu sürükleyip parmağı kaldırarak atışı yapabilirsiniz.
